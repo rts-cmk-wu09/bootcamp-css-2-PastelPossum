@@ -1,0 +1,22 @@
+* {
+
+    box-sizing: border-box;
+    margin: 0;
+
+    text-align: center;
+
+}
+
+.red-text {
+
+    color: crimson;
+
+    font-weight: bold;
+
+}
+
+.grey-text {
+
+    color: rgb(202, 202, 210);
+
+}
