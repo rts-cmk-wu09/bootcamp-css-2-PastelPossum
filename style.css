@@ -5,6 +5,11 @@
 
     text-align: center;
 
+    text-decoration: none;
+    list-style: none;
+
+    color: black;
+
 }
 
 .red-text {
@@ -20,3 +25,27 @@
     color: rgb(202, 202, 210);
 
 }
+
+/* HEADER */
+
+.navigation ul {
+
+    display: flex;
+    justify-content: center;
+
+    gap: 4%;
+
+    margin: 10px;
+
+    font-weight: bold;
+
+}
+
+header img {
+
+    margin: 10px;
+
+}
+
+
+
