@@ -73,5 +73,13 @@ header img {
 }
 
 
+/* GAS ARTICLE */
+
+.gas-article, .gas-article p, .gas-article h1 {
+
+    text-align: left;
+    
+    margin-left: 20%;
+}
 
 
