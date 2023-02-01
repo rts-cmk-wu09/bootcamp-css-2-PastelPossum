@@ -47,5 +47,31 @@ header img {
 
 }
 
+/* AD */
+
+.ad img {
+
+    margin: 10px;
+
+}
+
+.ad p {
+
+    transform: rotate(-90deg);
+
+    margin-left: 50px;
+
+}
+
+.ad {
+
+    display: flex;
+    justify-content: right;
+
+    margin-right: 23%;
+
+}
+
+
 
 
